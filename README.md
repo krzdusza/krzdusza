@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA
-- 📫 How to reach me krzdusza@gmail.com
+
 
 <!---
 krzdusza/krzdusza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
